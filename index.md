@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+## Building skills
 
-You can use the [editor on GitHub](https://github.com/kendalllindley/kendalllindley/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+I consistently find myself needing to think through solutions that can be scaled. This site is an exercise of breadth. I want to learn what's out there and what's possible. It's nice to have you along.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Challenges
 
-### Markdown
+I've had to wrestle with how to make things scalable for a web team that was working for one really big institution. Recently I've had the opportunity to see into the world of designing and marketing for hundreds of small businesses. It will be a whole new world, and I;m excited to see where it leads.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## What are we doing here
 
-```markdown
-Syntax highlighted code block
+As I go through these adventures I am going to "blog" my personal experiments in front-end web development. I might also throw in some philosophy, project management thoughts, and anything else I may come across. This website is mostly for my own record. But hey, if it benefits a few others, all the better.
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kendalllindley/kendalllindley/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Enjoy.
